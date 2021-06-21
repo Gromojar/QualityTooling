@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/qualitytooling/static/js/main.011f8ad3.chunk.js",
-    "main.js.map": "/qualitytooling/static/js/main.011f8ad3.chunk.js.map",
+    "main.js": "/qualitytooling/static/js/main.c29d686b.chunk.js",
+    "main.js.map": "/qualitytooling/static/js/main.c29d686b.chunk.js.map",
     "runtime-main.js": "/qualitytooling/static/js/runtime-main.a189a119.js",
     "runtime-main.js.map": "/qualitytooling/static/js/runtime-main.a189a119.js.map",
     "static/css/2.6cbf9832.chunk.css": "/qualitytooling/static/css/2.6cbf9832.chunk.css",
-    "static/js/2.c907af72.chunk.js": "/qualitytooling/static/js/2.c907af72.chunk.js",
-    "static/js/2.c907af72.chunk.js.map": "/qualitytooling/static/js/2.c907af72.chunk.js.map",
+    "static/js/2.6a451188.chunk.js": "/qualitytooling/static/js/2.6a451188.chunk.js",
+    "static/js/2.6a451188.chunk.js.map": "/qualitytooling/static/js/2.6a451188.chunk.js.map",
     "index.html": "/qualitytooling/index.html",
     "static/css/2.6cbf9832.chunk.css.map": "/qualitytooling/static/css/2.6cbf9832.chunk.css.map",
-    "static/js/2.c907af72.chunk.js.LICENSE.txt": "/qualitytooling/static/js/2.c907af72.chunk.js.LICENSE.txt",
+    "static/js/2.6a451188.chunk.js.LICENSE.txt": "/qualitytooling/static/js/2.6a451188.chunk.js.LICENSE.txt",
     "static/media/font-awesome.min.css": "/qualitytooling/static/media/fontawesome-webfont.f691f37e.woff",
     "static/media/gadget.cc551298.png": "/qualitytooling/static/media/gadget.cc551298.png",
     "static/media/google.bbce75f8.svg": "/qualitytooling/static/media/google.bbce75f8.svg",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.a189a119.js",
     "static/css/2.6cbf9832.chunk.css",
-    "static/js/2.c907af72.chunk.js",
-    "static/js/main.011f8ad3.chunk.js"
+    "static/js/2.6a451188.chunk.js",
+    "static/js/main.c29d686b.chunk.js"
   ]
 }
