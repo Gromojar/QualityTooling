@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/qualitytooling/static/js/main.3a0ea0a2.chunk.js",
-    "main.js.map": "/qualitytooling/static/js/main.3a0ea0a2.chunk.js.map",
+    "main.js": "/qualitytooling/static/js/main.21669d0c.chunk.js",
+    "main.js.map": "/qualitytooling/static/js/main.21669d0c.chunk.js.map",
     "runtime-main.js": "/qualitytooling/static/js/runtime-main.a189a119.js",
     "runtime-main.js.map": "/qualitytooling/static/js/runtime-main.a189a119.js.map",
     "static/css/2.97503911.chunk.css": "/qualitytooling/static/css/2.97503911.chunk.css",
-    "static/js/2.45640a96.chunk.js": "/qualitytooling/static/js/2.45640a96.chunk.js",
-    "static/js/2.45640a96.chunk.js.map": "/qualitytooling/static/js/2.45640a96.chunk.js.map",
+    "static/js/2.2f25df7d.chunk.js": "/qualitytooling/static/js/2.2f25df7d.chunk.js",
+    "static/js/2.2f25df7d.chunk.js.map": "/qualitytooling/static/js/2.2f25df7d.chunk.js.map",
     "index.html": "/qualitytooling/index.html",
     "static/css/2.97503911.chunk.css.map": "/qualitytooling/static/css/2.97503911.chunk.css.map",
-    "static/js/2.45640a96.chunk.js.LICENSE.txt": "/qualitytooling/static/js/2.45640a96.chunk.js.LICENSE.txt",
+    "static/js/2.2f25df7d.chunk.js.LICENSE.txt": "/qualitytooling/static/js/2.2f25df7d.chunk.js.LICENSE.txt",
     "static/media/blocked-popup-clue.3597553a.jpg": "/qualitytooling/static/media/blocked-popup-clue.3597553a.jpg",
     "static/media/gadget.cc551298.png": "/qualitytooling/static/media/gadget.cc551298.png",
     "static/media/google.bbce75f8.svg": "/qualitytooling/static/media/google.bbce75f8.svg",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.a189a119.js",
     "static/css/2.97503911.chunk.css",
-    "static/js/2.45640a96.chunk.js",
-    "static/js/main.3a0ea0a2.chunk.js"
+    "static/js/2.2f25df7d.chunk.js",
+    "static/js/main.21669d0c.chunk.js"
   ]
 }
