@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/static/js/main.512e03fa.chunk.js",
-    "main.js.map": "/static/js/main.512e03fa.chunk.js.map",
+    "main.js": "/static/js/main.1c0aa28c.chunk.js",
+    "main.js.map": "/static/js/main.1c0aa28c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cd876301.js",
     "runtime-main.js.map": "/static/js/runtime-main.cd876301.js.map",
     "static/css/2.68b64559.chunk.css": "/static/css/2.68b64559.chunk.css",
-    "static/js/2.b200f785.chunk.js": "/static/js/2.b200f785.chunk.js",
-    "static/js/2.b200f785.chunk.js.map": "/static/js/2.b200f785.chunk.js.map",
+    "static/js/2.4bf2ab9f.chunk.js": "/static/js/2.4bf2ab9f.chunk.js",
+    "static/js/2.4bf2ab9f.chunk.js.map": "/static/js/2.4bf2ab9f.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.68b64559.chunk.css.map": "/static/css/2.68b64559.chunk.css.map",
-    "static/js/2.b200f785.chunk.js.LICENSE.txt": "/static/js/2.b200f785.chunk.js.LICENSE.txt",
+    "static/js/2.4bf2ab9f.chunk.js.LICENSE.txt": "/static/js/2.4bf2ab9f.chunk.js.LICENSE.txt",
     "static/media/blocked-popup-clue.3597553a.jpg": "/static/media/blocked-popup-clue.3597553a.jpg",
     "static/media/gadget.cc551298.png": "/static/media/gadget.cc551298.png",
     "static/media/google.bbce75f8.svg": "/static/media/google.bbce75f8.svg",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.cd876301.js",
     "static/css/2.68b64559.chunk.css",
-    "static/js/2.b200f785.chunk.js",
-    "static/js/main.512e03fa.chunk.js"
+    "static/js/2.4bf2ab9f.chunk.js",
+    "static/js/main.1c0aa28c.chunk.js"
   ]
 }
